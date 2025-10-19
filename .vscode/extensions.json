@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "ritwickdey.liveserver",
+        "aeschli.vscode-css-formatter",
+        "diz.ecsstractor-port",
+        "esbenp.prettier-vscode",
+        "eamodio.gitlens"
+    ]
+}
