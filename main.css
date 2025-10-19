@@ -1,3 +1,19 @@
-.person_name {
-    color:brown
+.mainpage{
+    background-color: black;
+    font-family: 'Roboto'
+}
+
+.myphoto{
+    background-image: url(https://sun9-21.userapi.com/s/v1/ig2/Y8vvR3F3YCy6dzWoqGTAzEKxSZMjJx8aPXxD1QBbBBwzBuwXn-0xcZVkuGf-2ij_laWKdLgrHB9dMb20p2_h5O_n.jpg?quality=95&as=32x48,48x72,72x108,108x162,160x240,240x360,360x540,480x720,540x810,640x960,720x1080,1080x1620,1280x1920,1440x2160,1707x2560&from=bu&cs=1707x0);
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: normal;
+    border-radius: 100px;
+}
+
+.facts{
+    padding: 20px;
+    position:relative;
 }
